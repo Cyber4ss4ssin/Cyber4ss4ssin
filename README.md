@@ -5,17 +5,14 @@ Hi, I'm Prajwal aka _Cyber4ss4ssin_.👋
 **🔍 About Me:**
 
 
-🏫 I am pursuing Masters in Cyber Security & Digital Forensics.
+🔹 I am pursuing Masters in Cyber Security & Digital Forensics.
 
-🛡️ Cybersecurity enthusiast with a keen interest in penetration testing, vulnerability assessment, and digital forensics.
+🔹 Cybersecurity enthusiast with a keen interest in penetration testing, threat intelligence and digital forensics.
 
-💡 Exploring the latest trends in ethical hacking, malware analysis, and threat intelligence.
+🔹 Constantly learning and sharpening my skills in cybersecurity tools like Wireshark, Metasploit, Autopsy, Burp Suite, and more.
 
-🔎 Skilled in network security, OSINT, and forensic investigations.
+🔹 Aspiring to contribute to the infosec community and make the digital world more secure.
 
-📖 Constantly learning and sharpening my skills in cybersecurity tools like Wireshark, Metasploit, Autopsy, Burp Suite, and more.
-
-🎯 Aspiring to contribute to the infosec community and make the digital world more secure.
 
 **🛠️ Tech Stack & Tools:**
 
