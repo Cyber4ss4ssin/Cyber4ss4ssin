@@ -5,7 +5,7 @@ Hi, I'm Prajwal aka _Cyber4ss4ssin_.👋
 **🔍 About Me:**
 
 
-🏫 I am currently pursuing Masters in Cyber Security & Digital Forensics.
+🏫 I am pursuing Masters in Cyber Security & Digital Forensics.
 
 🛡️ Cybersecurity enthusiast with a keen interest in penetration testing, vulnerability assessment, and digital forensics.
 
