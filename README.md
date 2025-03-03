@@ -2,8 +2,8 @@ Hi, I'm Prajwal aka _Cyber4ss4ssin_.👋
 
 🚀 Passionate about cybersecurity and digital forensics, exploring vulnerabilities, ethical hacking, and forensic analysis to strengthen security and uncover digital evidence.
 
-
 🔍 About Me:
+
 
 🏫 I am currently pursuing Masters in Cyber Security & Digital Forensics.
 
@@ -17,8 +17,8 @@ Hi, I'm Prajwal aka _Cyber4ss4ssin_.👋
 
 🎯 Aspiring to contribute to the infosec community and make the digital world more secure.
 
-
 🛠️ Tech Stack & Tools:
+
 
 🔹 Programming: Python, Bash
 
@@ -32,6 +32,7 @@ Hi, I'm Prajwal aka _Cyber4ss4ssin_.👋
 <!--
 🌐 Portfolio/Website
 🐦 Twitter-->
+
 
 📧 prajwalt9899@gmail.com
 
